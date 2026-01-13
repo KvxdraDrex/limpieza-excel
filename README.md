@@ -13,3 +13,10 @@ Script simple en Python para limpiar archivos Excel.
 ## Uso
 ```bash
 python limpiar_excel.py --in archivo.xlsx --out limpio.xlsx
+
+
+
+## Requisitos
+- Python 3.9+
+- pandas
+- openpyxl
